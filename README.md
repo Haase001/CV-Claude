@@ -18,7 +18,7 @@ en DEV.F
 
   ---
 
- <a href="https://haase001.github.io/CV-Own/" target="_blank"><img src="img/CV.jpg" 
+ <a href="https://haase001.github.io/CV-Claude/" target="_blank"><img src="img/CV.jpg" 
 alt="Imagen con codigo" width="200" height="200" /></a>
 
 Creado por mi con ayuda de Claude AI :smile: 
